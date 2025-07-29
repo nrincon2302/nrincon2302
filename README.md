@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:5d536e,100:6c8cd4&text=Hello!%20I'm%20Nicolás%20Rincón%20Sánchez&section=header&reversal=true&textBg=false&fontSize=35&fontAlignY=35&animation=twinkling&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:5d536e,100:6c8cd4&text=Hello!%20I'm%20Nicolás&section=header&reversal=true&textBg=false&fontSize=35&fontAlignY=35&animation=twinkling&fontColor=FFFFFF"/>
 </p>
 
 <p align="center">
