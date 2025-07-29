@@ -60,14 +60,6 @@ Electronic and Software Engineer who loves to embark on challenging projects wit
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-412991?style=for-the-badge&logo=openaigym&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-**Other (Robotics, IoT, and Quantum Computing)**
-
-![Linux](https://img.shields.io/badge/Linux-FFCC2E?style=for-the-badge&logo=linux&logoColor=black)
-![ROS](https://img.shields.io/badge/ROS-006600?style=for-the-badge&logo=ros&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Espressif IDF](https://img.shields.io/badge/ESP32-DD3333?style=for-the-badge&logo=espressif&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-05042E?style=for-the-badge&logo=qiskit&logoColor=white)
-
 
 <!--FULL CATALOG HERE FOR WHEN IT MAY BE NEEDED OR USEFUL
 **Programming Languages**  
